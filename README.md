@@ -40,9 +40,5 @@ public class ErrorLocalizerImpl implements ErrorLocalizer {
 
 * You can use `mvn clean compile test` to build and test your implementation.
 
-## Restrictions
-* You are not allowed to change any code in the [sg.edu.nus.its.its-core](./its-core).
-* You need to stick to the provided interfaces.
-* You are not allowed to change the file/class name or move [sg.edu.nus.se.its.errorlocalizer.ErrorLocalizerImpl](./its-errorlocalizer/src/main/java/sg/edu/nus/se/its/errorlocalizer/ErrorLocalizerImpl.java).
-* If you would require any other dependencies or libraries, you first need to seek approval by your mentor.
-* You are not allowed to change any file within [.github](./.github).
+## References
+[Intelligent Tutoring System for Programming and Algorithms Education](https://nus-its.github.io/courses/cs3213/intro.html)
